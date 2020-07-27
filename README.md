@@ -13,7 +13,7 @@
 
 1. 設定global ID password
 
-2. ssh金鑰
+2. ssh金鑰--SSH Key
 
 
 
